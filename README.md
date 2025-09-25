@@ -27,10 +27,11 @@ You can integrate the AlertWise Web SDK in two ways: using the CDN or by install
 ### 1. Using CDN
 
 The easiest way to get started is to add the following script tag to the `<head>` section of your website's HTML file.
+[Alertwise CDN Link](https://cdn.alertwise.net/alertwise/integrate/service-worker.js)
 
 ```html
 
-<script src="https://cdn.jsdelivr.net/npm/@alertwise/alertwise-web-sdk@latest/dist/alert-wise.js" async></script>
+<script src="https://cdn.alertwise.net/alertwise/integrate/service-worker.js" async></script>
 ```
 
 ### 2. Using npm/yarn
